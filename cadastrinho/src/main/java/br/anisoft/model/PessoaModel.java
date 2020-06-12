@@ -18,10 +18,7 @@ public class PessoaModel implements Serializable {
 	private String nome;
 	private String sobrenome;
 	
-	/* comentario inserido apenas para testar o github */
-	/* comentário para verificar o retorno */
-
-	
+		
 	// Métodos getters e Setters
 	
 	public long getId() {
