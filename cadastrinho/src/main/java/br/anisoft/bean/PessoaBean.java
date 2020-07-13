@@ -47,6 +47,8 @@ public class PessoaBean {
 		return "";
 	}
 
+	/*=============================================================================*/
+	
 	public List<PessoaModel> getListaPessoas() {
 		return listaPessoas;
 	}
